@@ -1,0 +1,11 @@
+{
+	"name": "de.dasendo.endosunityutilities",
+	"version": "1.0.0",
+	"displayName": "Endo's Unity Utilities",
+	"description": "A collection of small utilities for Unity",
+	"unity": "2022.3",
+	"author": {
+		"name": "DasEndo",
+		"email": "diesesendo@gmail.com"
+	}
+}
