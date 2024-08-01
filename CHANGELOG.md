@@ -7,4 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Version 1.0.0
 
--   Initial release of the EndosUnityUtilities package.
+### Added
+- `RefType<T>` and its children (e.g. `RefBool`): Classes for using built-in value types as reference types.
+- `CameraUtilities`: Utility methods for checking visibility of points, bounds, and renderers from a camera.
+- `ScriptableObjectUtilities`: Utility methods for saving, duplicating, and deleting `ScriptableObject` assets.
+- `LayerMaskUtilities`: Utility methods for working with `LayerMask` objects.
