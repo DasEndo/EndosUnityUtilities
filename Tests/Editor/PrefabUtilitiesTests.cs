@@ -4,7 +4,7 @@ using UnityEditor;
 using UnityEngine;
 
 // ReSharper disable InconsistentNaming
-namespace Tests.Runtime
+namespace Tests.Editor
 {
 	public class PrefabUtilitiesTests
 	{

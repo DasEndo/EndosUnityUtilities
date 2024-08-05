@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Tests.Runtime
+namespace Tests.Editor
 {
 	public class TestScriptableObject : ScriptableObject { }
 }
