@@ -5,14 +5,21 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Unreleased]
+## [1.1.0] - 2024-08-05
 
 ### Added
 - `ObjectUtilities`: All methods from `ScriptableObjectUtilities` and a general save method for `Object` assets.
 - `PrefabUtilities`: Utility methods for working with prefab assets.
+- `package.json`: changelogUrl, licensesUrl, license and keywords fields.
+
+### Changed
+- `package.json`: Updated the package version to 1.1.0.
 
 ### Removed
 - `ScriptableObjectUtilities`: All methods have been moved to `ObjectUtilities`.
+
+### Fixed
+- Scripts that use the `UnityEditor` namespace are now excluded from builds by being placed in an `Editor` folder.
 
 ## [1.0.0] - 2024-08-01
 

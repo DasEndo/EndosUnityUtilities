@@ -1,9 +1,16 @@
 {
 	"name": "de.dasendo.endosunityutilities",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"displayName": "Endo's Unity Utilities",
 	"description": "A collection of small utilities for Unity",
+	"changelogUrl": "https://github.com/DasEndo/EndosUnityUtilities/blob/main/CHANGELOG.md",
+	"licensesUrl": "https://github.com/DasEndo/EndosUnityUtilities/blob/main/LICENSE.md",
+	"license": "MIT",
 	"unity": "2022.3",
+	"keywords": [
+		"Unity",
+		"Utilities"
+	],
 	"author": {
 		"name": "DasEndo",
 		"email": "diesesendo@gmail.com"
